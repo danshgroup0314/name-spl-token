@@ -1,4 +1,4 @@
-// as used in https://www.youtube.com/watch?v=DQbt0-riooo
+// Reference: https://www.youtube.com/watch?v=DQbt0-riooo
 
 import * as mpl from "@metaplex-foundation/mpl-token-metadata";
 import * as web3 from "@solana/web3.js";
